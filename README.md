@@ -1,5 +1,5 @@
 # simple-spellchecker
-A simple spell checker that uses a bloom filter to tell you if a word exists in a preloaded list
+A simple spell checker that uses a bloom filter to tell you if a word exists in a preloaded list. Based on CodeKata Kata05: Bloom Filters (http://codekata.com/kata/kata05-bloom-filters/)
 
 # Pre-requisites
 
